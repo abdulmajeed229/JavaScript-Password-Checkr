@@ -1,6 +1,6 @@
 
 
-var password1 = prompt("Enter First Password");
+var password1 = prompt("Enter First Password" (123456);
 
 var password2 = prompt("Enter Last Pssword")
 
